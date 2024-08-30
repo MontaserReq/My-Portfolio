@@ -7,5 +7,4 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1300
   },
-  base:"/vite-react-deploy/"
 })
