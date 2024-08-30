@@ -23,7 +23,6 @@ import {
     travel,
     Quiz,
     password
-    // threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -97,10 +96,6 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
     {
       name: "git",
       icon: git,
