@@ -18,7 +18,6 @@ import reactjs from "./tech/reactjs.png";
 
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import quiz from './tech/quiz.png'
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -44,7 +43,6 @@ export {
   mongodb,
   nextjs,
   reactjs,
-  quiz,
   tailwind,
   typescript,
   meta,

@@ -8,7 +8,6 @@ import {
     html,
     css,
     reactjs,
-    quiz,
     tailwind,
     nextjs,
     mongodb,
@@ -220,27 +219,27 @@ import {
       image: password,
       source_code_link: "https://github.com/MontaserReq/Password-Generator-",
     },
-    {
-      name: "Quiz App",
-      description:
-        "Test your knowledge with our Quiz App! Enjoy a variety of quizzes on different topics, track your progress, and challenge friends. Learn and have fun!",
-      tags: [
-        {
-          name: "Html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Quiz_App",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: quiz,
-      source_code_link: "https://github.com/MontaserReq",
-    },
+    // {
+    //   name: "Quiz App",
+    //   description:
+    //     "Test your knowledge with our Quiz App! Enjoy a variety of quizzes on different topics, track your progress, and challenge friends. Learn and have fun!",
+    //   tags: [
+    //     {
+    //       name: "Html",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Quiz_App",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "css",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: quiz,
+    //   source_code_link: "https://github.com/MontaserReq",
+    // },
     {
       name: "Wether App",
       description:
