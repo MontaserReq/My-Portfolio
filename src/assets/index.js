@@ -19,14 +19,12 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-// import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import Quiz from "./quiz.png";
 import password from "./password.jpg";
 import weather from "./weather.png";
 import travel from "./travel.jpeg";
@@ -52,13 +50,11 @@ export {
   redux,
   tailwind,
   typescript,
-  // threejs,
   meta,
   shopify,
   starbucks,
   tesla,
   travel,
-  Quiz,
   password,
   weather
 };
