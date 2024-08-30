@@ -8,17 +8,17 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import sass from "./tech/sass.png";
-import figma from "./tech/figma.png";
+
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nextjs from "./tech/nextjs.jpeg";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import quiz from './tech/quiz.png'
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -28,7 +28,6 @@ import tesla from "./company/tesla.png";
 import password from "./password.jpg";
 import weather from "./weather.png";
 import travel from "./travel.jpeg";
-
 export {
   logo,
   backend,
@@ -39,15 +38,13 @@ export {
   menu,
   close,
   css,
-  sass,
-  figma,
   git,
   html,
   javascript,
   mongodb,
   nextjs,
   reactjs,
-  redux,
+  quiz,
   tailwind,
   typescript,
   meta,
