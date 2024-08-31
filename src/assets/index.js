@@ -28,7 +28,7 @@ import tesla from "./company/tesla.png";
 import password from "./password.jpg";
 import weather from "./weather.png";
 import travel from "./travel.jpeg";
-import brain from "./tech/brain.png"
+import brain from "./brain.png"
 export {
   logo,
   backend,
