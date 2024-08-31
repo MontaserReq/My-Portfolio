@@ -258,27 +258,6 @@ import {
       source_code_link: "https://github.com/MontaserReq",
     },
     {
-      name: "Wether App",
-      description:
-        "TStay informed with our Weather App! Get accurate forecasts, real-time updates, and detailed weather information for any location. Plan your day with confidence!",
-      tags: [
-        {
-          name: "Html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Wether_App",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: weather,
-      source_code_link: "https://github.com/MontaserReq/Weather-app",
-    },
-    {
       name: "Brain Wave",
       description:
         "Explore the Possibilities of AI  Chatting with BrainWavecurve !",
@@ -299,6 +278,28 @@ import {
       image: brain,
       source_code_link: "https://github.com/MontaserReq/BrainWave",
     },
+    {
+      name: "Wether App",
+      description:
+        "TStay informed with our Weather App! Get accurate forecasts, real-time updates, and detailed weather information for any location. Plan your day with confidence!",
+      tags: [
+        {
+          name: "Html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Wether_App",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: weather,
+      source_code_link: "https://github.com/MontaserReq/Weather-app",
+    },
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };
