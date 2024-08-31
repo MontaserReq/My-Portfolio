@@ -29,6 +29,7 @@ import password from "./password.jpg";
 import weather from "./weather.png";
 import travel from "./travel.jpeg";
 import brain from "./brain.png"
+import quiz from "./quiz.png"
 export {
   logo,
   backend,
@@ -57,5 +58,6 @@ export {
   travel,
   password,
   weather,
-  brain
+  brain,
+  quiz
 };
