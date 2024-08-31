@@ -8,17 +8,21 @@ import {
     html,
     css,
     reactjs,
+    redux,
     tailwind,
     nextjs,
     mongodb,
     git,
+    figma,
+    sass,
     meta,
     starbucks,
     tesla,
     shopify,
     weather,
     travel,
-    password
+    password,
+    brain,
   } from "../assets";
   
   export const navLinks = [
@@ -77,6 +81,10 @@ import {
       icon: reactjs,
     },
     {
+      name: "Redux Toolkit",
+      icon: redux,
+    },
+    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
@@ -91,7 +99,15 @@ import {
     {
       name: "git",
       icon: git,
-    }
+    },
+    {
+      name: "figma",
+      icon: figma,
+    },
+    {
+      name: "sass",
+      icon: sass,
+    },
   ];
   
   const experiences = [
@@ -260,6 +276,27 @@ import {
       ],
       image: weather,
       source_code_link: "https://github.com/MontaserReq/Weather-app",
+    },
+    {
+      name: "Brain Wave",
+      description:
+        "Explore the Possibilities of AI  Chatting with BrainWavecurve !",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Brain",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Vite",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: brain,
+      source_code_link: "https://github.com/MontaserReq/BrainWave",
     },
   ];
   
